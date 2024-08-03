@@ -1,0 +1,5 @@
+*.exe
+*.dsym
+main
+/.history 
+/.vscode
